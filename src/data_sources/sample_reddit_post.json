@@ -1,0 +1,19 @@
+{
+    "post_id": "xyz123",
+    "title": "Example Post Title",
+    "url": "https://reddit.com/r/examplepost",
+    "created_utc": "2023-01-01 12:00:00",
+    "content": "This is a sample content of the post...",
+    "comments": [
+      {
+        "comment_id": "cmt1",
+        "text": "This is an insightful comment.",
+        "score": 120
+      },
+      {
+        "comment_id": "cmt2",
+        "text": "Another comment here.",
+        "score": 99
+      }
+    ]
+  }
